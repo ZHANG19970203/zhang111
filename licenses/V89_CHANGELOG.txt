@@ -1,0 +1,1 @@
+Built from supplied kinesiology_v88_learning.html (72-entry version), not the separate 49-entry student_lab variant. Search region conflict and stale model display fixed; new source meshes and reference-only records added; original mesh vertices retained; brand and scoped use notice added.

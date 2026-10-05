@@ -1,0 +1,99 @@
+{
+  "format": "dxx-static-split-v1",
+  "version": "8.9-web-1",
+  "sourceSHA256": "9e8b73f57c25b88567df9d01c1f71af5579b36c611c16824fa9105491c1a3a18",
+  "models": [
+    {
+      "key": "native",
+      "bytes": 6531288,
+      "sha256": "d4c0034f387fb90be7fc87ebd5d8ee037f3cbef448bbf2f6e1e7295d737f0e51",
+      "chunks": [
+        {
+          "path": "assets/native-01.bin",
+          "offset": 0,
+          "bytes": 4194304,
+          "sha256": "668a87de59662d9ec2198f9e4c900efc03217326d1fc4531a425dc2a988a5bd4"
+        },
+        {
+          "path": "assets/native-02.bin",
+          "offset": 4194304,
+          "bytes": 2336984,
+          "sha256": "79952c1b7a8186b11a7c13980c9b94f0f93817ff13149074c6e410a20ad3e98b"
+        }
+      ]
+    },
+    {
+      "key": "anatomy",
+      "bytes": 25195080,
+      "sha256": "dd7d01e7c5b2bf4ed426a8f93438ec4bf27e6a84fe6a53cfa1a62a576a794804",
+      "chunks": [
+        {
+          "path": "assets/anatomy-01.bin",
+          "offset": 0,
+          "bytes": 4194304,
+          "sha256": "890f86d726d097c3e427835bc982f5a217604883ce96b4cce3f0ef09261721d9"
+        },
+        {
+          "path": "assets/anatomy-02.bin",
+          "offset": 4194304,
+          "bytes": 4194304,
+          "sha256": "600adcbe09b528294c7d4a10b336768f6e196490b728ef28c7654e59e76ee7fb"
+        },
+        {
+          "path": "assets/anatomy-03.bin",
+          "offset": 8388608,
+          "bytes": 4194304,
+          "sha256": "f3f3e369075633bfa8e488b2388ce609eb3ef830f4daf9f7602b5af636554294"
+        },
+        {
+          "path": "assets/anatomy-04.bin",
+          "offset": 12582912,
+          "bytes": 4194304,
+          "sha256": "4688229a05d5508a5c6ec9963a979b0a35bc0cc3bb0656e62de02bb4af7c65d4"
+        },
+        {
+          "path": "assets/anatomy-05.bin",
+          "offset": 16777216,
+          "bytes": 4194304,
+          "sha256": "2d83ae4368007bbf55b525833d04f31652ea8a074b649f00ae4c10c2015a0e0a"
+        },
+        {
+          "path": "assets/anatomy-06.bin",
+          "offset": 20971520,
+          "bytes": 4194304,
+          "sha256": "3761d6142971ae763f28085ad64eaddcccec4f2c107e2631a7c6face08b4d831"
+        },
+        {
+          "path": "assets/anatomy-07.bin",
+          "offset": 25165824,
+          "bytes": 29256,
+          "sha256": "79cea56c95ee6d250d23789bb1b0ae16d2530789bf2203f51e60a9a811b4be56"
+        }
+      ]
+    },
+    {
+      "key": "actor",
+      "bytes": 1998072,
+      "sha256": "93467fbcca7a7930bd9788011ad2d186758c1e1a9f8a293444b32ff2dd5758d8",
+      "chunks": [
+        {
+          "path": "assets/actor-01.bin",
+          "offset": 0,
+          "bytes": 1998072,
+          "sha256": "93467fbcca7a7930bd9788011ad2d186758c1e1a9f8a293444b32ff2dd5758d8"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "path": "assets/app-data.json",
+    "bytes": 1687942,
+    "sha256": "fcfb29bc3f292c8c6ade39df395c7c3ba830c0b5c98cd488262e76f7b6346491"
+  },
+  "application": {
+    "path": "assets/app.js",
+    "bytes": 299669,
+    "sha256": "a0e7e64a1ea0eab2f612a399081d7cb2d7eaf02eef599c03c6135700f139b564",
+    "integrity": "sha256-oOfmSh6g6rL2EqOZCB18stfq8C7vWZwDxhNXAPE5tWQ="
+  }
+}

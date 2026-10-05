@@ -1,0 +1,7 @@
+BodyParts3D, © The Database Center for Life Science; CC Attribution 4.0 International.
+New source mesh IDs are listed in tests/asset_audit.json.
+Supplied source: ashemag/human-atlas public/models/atlas.json and body-*.bin.
+Modifications: same-source origin translation, signed-integer to floating-point normals, mesh grouping and display colors. Original source vertex count and triangle connectivity retained. No new anatomical surface sculpting.
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+https://creativecommons.org/licenses/by/4.0/
+https://github.com/ashemag/human-atlas

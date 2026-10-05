@@ -1,0 +1,1 @@
+V7.6A targeted model correction. Source license notices retained. Non-anatomical decorative emblem removed from thorax STL visualization; exact retained skeletal faces kept. No new anatomy generated. Static anatomical masks repaired. Joint-based guide planes/axes added. Not a complete gait/clinical-physiology upgrade.

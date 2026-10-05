@@ -1,0 +1,24 @@
+V7.5 teaching application — 2026-10-04
+This delivery preserves native.bin/native.json, anatomy.bin/anatomy.json and
+actor.bin/actor.json from the user's existing V6 package, without further
+mesh decimation or replacement. Source notices for each asset group apply.
+
+Native: MuscleMimic Models / MyoSim upstream definitions and bone meshes.
+The upstream NOTICE identifies, among other sources, non-commercial terms
+for MoBL-ARMS model definitions. Do not treat the entire archive as MIT or
+CC BY 4.0 merely because some original code or some assets have those terms.
+
+Anatomy: user's Somakine / BodyParts3D selected meshes, static anatomical
+reference only. No new clinical attachment points or muscle simulation.
+Character: V6 clothed reference characters as described in CHARACTER_ATTRIBUTION.
+
+V7.5 changes: new observation-only navigation, original teaching copy,
+controlled dialogue, browser state safety, synthetic illustration data,
+three lever scenes, two-vertebra single-DOF teaching transforms, foot COP
+CSV reading, independent arch height/stiffness visualization, references,
+provenance and five-round change records.
+
+No AnatomyTOOL asset, textbook illustration, font file, motion-capture
+library, recorded patient voice or identifying real-patient data is included.
+No proof of medical accuracy, clinical safety certification or learning
+outcome effectiveness is represented by the software tests.

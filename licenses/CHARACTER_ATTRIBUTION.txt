@@ -1,0 +1,26 @@
+CLOTHED TEACHING CHARACTERS — V6 (2026-10-04)
+
+Source exposed-skin reference:
+BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International.
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+https://creativecommons.org/licenses/by/4.0/
+
+Source route: user's human-atlas-main.zip (ashemag/human-atlas), source part identifiers
+FJ2810 (Skin), FJ2812 (Eyebrow), FJ2813 (Hair of head), FJ2814 (Lip).
+Retained source subset: head/neck and exposed forearms/hands, eyebrow, hair and lip.
+Covered torso/pelvis/lower-limb skin faces are EXCLUDED from the delivered character asset.
+
+Changes: selected faces, removed tiny disconnected side-hip fragments from arm masks, compact reindexing; original teaching skeleton and approximate
+linear-blend skinning; original short-sleeved garments, long trousers, shoes, colors.
+The original detailed bodyparts meshes had already been processed upstream.
+Both therapist and patient use the same adult male reference body with different clothes.
+This is not a diverse scan collection and not a clinical soft-tissue model.
+No claim is made of anatomically calibrated muscle, tendon or fiber deformation.
+
+Adapted skin subset is provided under CC BY 4.0; retain attribution and change notice.
+Original garment geometry and room primitives: same permissive original-code license
+as ORIGINAL_CODE_LICENSE.txt (no rights claimed over underlying upstream models).
+
+No AnatomyTOOL mesh or source-viewer code is newly added by this V6 character extension.
+Inherited native/anatomy datasets and their original notices remain separate.
+No commercial character package, copied training platform screenshots, voices or fonts included.
